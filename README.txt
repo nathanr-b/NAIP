@@ -1,4 +1,4 @@
-Scripts and supporting data for: Hydrothermal ammonium from a Large Igneous Province mitigated early Eocene climate change
+Scripts and supporting data for: Massive hydrothermal ammonium release during the Paleocene-Eocene Thermal Maximum 
 
 results_qX
 10 simulated carbon emissions histories from running LIPburp with a modified aureole parameterization. X corresponds to the mantle area flux value used. 
